@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f5f5f5;
+    color:#333;
+    line-height:1.6;
+}
+
+header{
+    text-align:center;
+    padding:40px 20px 20px 20px;
+}
+
+.subheading{
+    color:#777;
+}
+
+.hero{
+    text-align:center;
+    padding:40px 20px;
+}
+
+button{
+    margin-top:20px;
+    padding:12px 24px;
+    border:none;
+    background:#222;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+    border-radius:4px;
+}
+
+button:hover{
+    background:#444;
+}
+
+section{
+    max-width:800px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.about ul{
+    padding-left:20px;
+}
+
+.contact{
+    text-align:center;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    color:#777;
+    font-size:14px;
+}
